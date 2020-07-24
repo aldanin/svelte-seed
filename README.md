@@ -10,6 +10,20 @@ To create a new project based on this template using [degit](https://github.com/
 npx degit aldanin/svelte-seed
 ```
 
+To use the above you will need to install [degit](https://github.com/Rich-Harris/degit):
+
+```bash 
+npm install -g degit
+```
+
+You can also clone directly:
+
+```bash
+git clone https://github.com/aldanin/svelte-seed.git
+```
+
+
+
 _Note that you will need to have [Node.js](https://nodejs.org) installed._
 
 \#\# Get started
