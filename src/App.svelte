@@ -20,5 +20,5 @@
 </style>
 
 <main>
-  <img src="./Svelte_Logo.svg">
+  <img src="./Svelte_Logo.svg">SVELTE
 </main>
